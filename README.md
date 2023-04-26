@@ -1,5 +1,5 @@
 # snake_game
-The classic snake arcade game.
+The classic snake arcade game, built in Java using Java Swing.
 
 I still have a lot of bugs to sort out and fix:
 
